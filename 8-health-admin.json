@@ -1,0 +1,10 @@
+{
+  "name": "Health Admin Issuer",
+  "symbol": "RFGEE",
+  "description": "Health admin issuer credential in the RFGEE system.",
+  "image": "https://raw.githubusercontent.com/bingbongchain/rfgee-metadata-public-/main/8-health-admin.jpg",
+  "attributes": [
+    { "trait_type": "Category", "value": "Health Admin Issuer" },
+    { "trait_type": "Collection", "value": "RFGEE" }
+  ]
+}
