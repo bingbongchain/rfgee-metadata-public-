@@ -1,0 +1,10 @@
+{
+  "name": "UNHCR NGO Admin Issuer",
+  "symbol": "RFGEE",
+  "description": "NGO admin issuer credential in the RFGEE system.",
+  "image": "https://raw.githubusercontent.com/bingbongchain/rfgee-metadata-public-/main/1-ngo-admin.jpg",
+  "attributes": [
+    { "trait_type": "Category", "value": "NGO Admin Issuer" },
+    { "trait_type": "Collection", "value": "RFGEE" }
+  ]
+}
