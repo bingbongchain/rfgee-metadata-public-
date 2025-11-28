@@ -1,0 +1,10 @@
+{
+  "name": "Corporate Admin Issuer",
+  "symbol": "RFGEE",
+  "description": "Corporate admin issuer credential in the RFGEE system.",
+  "image": "https://raw.githubusercontent.com/bingbongchain/rfgee-metadata-public-/main/7-corporate-admin.jpg",
+  "attributes": [
+    { "trait_type": "Category", "value": "Corporate Admin Issuer" },
+    { "trait_type": "Collection", "value": "RFGEE" }
+  ]
+}
