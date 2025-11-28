@@ -1,0 +1,11 @@
+{
+  "name": "RFGEE Logo",
+  "symbol": "RFGEE",
+  "description": "RFGEE – Refugee Digital Record System NFT.",
+  "image": "https://raw.githubusercontent.com/bingbongchain/rfgee-metadata-public-/main/0-rfgee-logo.jpg",
+  "attributes": [
+    { "trait_type": "Category", "value": "Logo" },
+    { "trait_type": "Collection", "value": "RFGEE" }
+  ]
+}
+
