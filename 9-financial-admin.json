@@ -1,0 +1,10 @@
+{
+  "name": "Financial Admin Issuer",
+  "symbol": "RFGEE",
+  "description": "Financial admin issuer credential in the RFGEE system.",
+  "image": "https://raw.githubusercontent.com/bingbongchain/rfgee-metadata-public-/main/9-financial-admin.jpg",
+  "attributes": [
+    { "trait_type": "Category", "value": "Financial Admin Issuer" },
+    { "trait_type": "Collection", "value": "RFGEE" }
+  ]
+}
