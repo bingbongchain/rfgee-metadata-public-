@@ -1,0 +1,10 @@
+{
+  "name": "Refugee ID #1",
+  "symbol": "RFGEE",
+  "description": "Refugee ID NFT issued in the RFGEE system.",
+  "image": "https://raw.githubusercontent.com/bingbongchain/rfgee-metadata-public-/main/2-id-1.jpg",
+  "attributes": [
+    { "trait_type": "Category", "value": "Refugee ID" },
+    { "trait_type": "Collection", "value": "RFGEE" }
+  ]
+}
